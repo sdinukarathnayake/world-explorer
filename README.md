@@ -34,17 +34,15 @@ The project includes comprehensive unit and integration tests for both the front
 ### Frontend Testing
 
 - **Tools:** Jest + React Testing Library
+- 
 - **Coverage:**
   - Component tests for:
     - HomePage
     - DashboardPage
     - CountryList
     - CountryDetails
-    - LoginPage
-    - RegisterPage
-    - ProtectedRoute
+    - 
 - **How to Run:**
-
 ```bash
 cd rest-countries-app
 npm test             
